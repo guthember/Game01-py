@@ -22,3 +22,8 @@ Python game for beginner school
 - feltételezzük, hogy helyes adatot ad meg (nem kell hibakezelés)
 - szöveges típus
 - konvertálás 
+
+## 4. Melyik ajtó mögött van a csapda?
+- Véletlenszám generálás -> random modul használata
+- **randint** használata
+- Ellenőrzésképpen a csapda helyének kiírása
