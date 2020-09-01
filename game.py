@@ -21,6 +21,7 @@ print("A csapda helye:", csapda)
 
 if valasz == csapda:
     print("Sajnos csapdába léptél!")
+    elet = elet - 10
 else:
     print("Szerencséd volt, kikerülted a csapdát!")
 

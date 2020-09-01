@@ -32,3 +32,7 @@ Python game for beginner school
 - feltételes szerkezet használat
 - egyszerű feltétel, 2 lehetőség
 - intendálás
+
+## 6. Ha csapdába léptünk
+- változó értékének változtatása
+- életerő aktualizálása
