@@ -14,5 +14,11 @@ Python game for beginner school
 
 ## 2. Játékos életerejének nyilvántartása
 - változó bevezetése
-- típus, értékadás
+- egész típus, értékadás
 - változó értékének kiíratása a képernyőre
+
+## 3. A játék kezdete, az első szoba
+- a játékos választása -> adatbekérés a felhasználótól
+- feltételezzük, hogy helyes adatot ad meg (nem kell hibakezelés)
+- szöveges típus
+- konvertálás 

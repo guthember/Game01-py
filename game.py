@@ -9,3 +9,6 @@ print("----------------------------")
 print("---> Kezdődjön a játék! <---")
 elet = 30
 print("Az életerőd:", elet)
+print("----------------------------")
+print("Melyik ajtót választod:",end=' ')
+valasz = int(input())
