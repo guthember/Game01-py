@@ -11,3 +11,8 @@ Python game for beginner school
     - "A játék célja, hogy átjuss mind a három szobán!" 
     - "Az ajtó választását az '1' vagy '2' gombbal teheted meg."
 - **print** utasítás használata
+
+## 2. Játékos életerejének nyilvántartása
+- változó bevezetése
+- típus, értékadás
+- változó értékének kiíratása a képernyőre
