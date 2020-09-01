@@ -24,6 +24,11 @@ Python game for beginner school
 - konvertálás 
 
 ## 4. Melyik ajtó mögött van a csapda?
-- Véletlenszám generálás -> random modul használata
+- véletlenszám generálás -> random modul használata
 - **randint** használata
-- Ellenőrzésképpen a csapda helyének kiírása
+- ellenőrzésképpen a csapda helyének kiírása
+
+## 5. Beleléptünk-e a csapdába vagy nem?
+- feltételes szerkezet használat
+- egyszerű feltétel, 2 lehetőség
+- intendálás

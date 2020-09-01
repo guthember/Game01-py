@@ -12,7 +12,16 @@ print("---> Kezdődjön a játék! <---")
 elet = 30
 print("Az életerőd:", elet)
 print("----------------------------")
+
 print("Melyik ajtót választod:",end=' ')
 valasz = int(input())
+
 csapda = random.randint(1, 2)
 print("A csapda helye:", csapda)
+
+if valasz == csapda:
+    print("Sajnos csapdába léptél!")
+else:
+    print("Szerencséd volt, kikerülted a csapdát!")
+
+print("----------------------------")
