@@ -60,3 +60,10 @@ else:
     print("Szerencséd volt, kikerülted a csapdát!")
 
 print("----------------------------")
+
+if elet == 0:
+    print("Sajnos nem élted túl. :-(")
+elif elet == 30:
+    print("Gratulálok, sértetlenül túlélted! :-)")
+else:
+    print("Gratulálok, megsérültél DE túlélted!")

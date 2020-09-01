@@ -39,3 +39,10 @@ Python game for beginner school
 
 ## 7. További két szobán való áthaladás
 - további játék a szobákon át
+
+## 8. A játék végeredményének kiírása
+- túléltük vagy nem?
+- több ágú feltételes szerkezet
+    - sértetlenül túlélted
+    - sérültél DE túlélted
+    - nem élte túl
