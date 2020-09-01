@@ -36,3 +36,6 @@ Python game for beginner school
 ## 6. Ha csapdába léptünk
 - változó értékének változtatása
 - életerő aktualizálása
+
+## 7. További két szobán való áthaladás
+- további játék a szobákon át
